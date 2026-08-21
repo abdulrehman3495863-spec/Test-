@@ -1,0 +1,10 @@
+System Architecture Overview
+---------------------------
+1. User Interface Layer: (Future) - Flask Web App
+2. Business Logic Layer: Python scripts (helpers, connector)
+3. Data Storage Layer: PostgreSQL DB + S3 Backup
+
+Data Flow:
+Input (CSV/API) -> Clean/Parser -> Aggregate/Transform -> Output (DB/JSON)
+
+Security: API Keys stored in environment variables.
