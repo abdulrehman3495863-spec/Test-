@@ -1,0 +1,4 @@
+Backup Schedule
+- Full backup: Every Sunday at 2:00 AM
+- Incremental backup: Daily at 12:00 AM
+- Retention Policy: 30 days
