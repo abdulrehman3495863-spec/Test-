@@ -1,1 +1,4 @@
-Hello World 1
+Project Init File
+Created: 2026-08-21
+Purpose: Data Automation Toolkit - Core utilities for ETL processes.
+Status: Active Development
