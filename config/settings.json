@@ -1,0 +1,12 @@
+{
+  "project_name": "Data Automation Toolkit",
+  "version": "1.0.0",
+  "author": "Abdul Rehman",
+  "timeout_seconds": 30,
+  "retry_attempts": 3,
+  "log_level": "INFO",
+  "data_sources": {
+    "primary_db": "postgresql://localhost:5432",
+    "backup_storage": "s3://my-automation-bucket"
+  }
+}
