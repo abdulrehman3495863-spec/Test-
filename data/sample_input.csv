@@ -1,0 +1,6 @@
+order_id,customer_name,amount,status
+1001,Ahmed Khan,250.50,Completed
+1002,Sara Ali,120.00,Pending
+1003,Usman Chaudhry,89.99,Completed
+1004,Fatima Noor,345.75,Shipped
+1005,Hassan Raza,67.25,Cancelled
